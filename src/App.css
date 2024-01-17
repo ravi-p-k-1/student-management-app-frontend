@@ -152,6 +152,16 @@ tr th:last-child{
   margin: 10px;
 }
 
+.delete{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.delete>*{
+  margin: 20px;
+}
+
 input{
   border-radius: 5px;
   padding: 20px;
